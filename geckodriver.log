@@ -1,0 +1,74 @@
+1693985842450	geckodriver	INFO	Listening on 127.0.0.1:52296
+1693985842466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/px/3_w3gz4d1rl7kk50vzr035sh0000gn/T/rust_mozprofileRXGpvN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693985844809	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693985844982	Marionette	INFO	Listening on port 52340
+WebDriver BiDi listening on ws://127.0.0.1:52297
+Read port: 52340
+1693985845159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52297/devtools/browser/ccfce9dc-a26f-4d5b-aa68-9f62f3682a35
+1693986835983	geckodriver	INFO	Listening on 127.0.0.1:53488
+1693986836497	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/px/3_w3gz4d1rl7kk50vzr035sh0000gn/T/rust_mozprofileaJ5xpH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693986836693	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693986836907	Marionette	INFO	Listening on port 53498
+WebDriver BiDi listening on ws://127.0.0.1:53489
+Read port: 53498
+1693986836973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53489/devtools/browser/00c0c3bf-fd59-4f5c-9060-d50f1992fc03
+1693987272824	geckodriver	INFO	Listening on 127.0.0.1:54022
+1693987273336	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/px/3_w3gz4d1rl7kk50vzr035sh0000gn/T/rust_mozprofileBlpfmv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693987273607	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693987273698	Marionette	INFO	Listening on port 54030
+WebDriver BiDi listening on ws://127.0.0.1:54023
+Read port: 54030
+1693987273827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54023/devtools/browser/a66e7ba5-8a20-4345-8bb9-246930ca9cd6
+1693987285238	Marionette	INFO	Stopped listening on port 54030
+JavaScript warning: https://obj.ac.bcon.ecdns.net/ec_tpm_bcon.js, line 1: Script terminated by timeout at:
+httpGet@https://obj.ac.bcon.ecdns.net/ec_tpm_bcon.js:1:159
+
+1693987879639	geckodriver	INFO	Listening on 127.0.0.1:54524
+1693987880153	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/px/3_w3gz4d1rl7kk50vzr035sh0000gn/T/rust_mozprofileiLw54G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693987880422	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693987880508	Marionette	INFO	Listening on port 54532
+WebDriver BiDi listening on ws://127.0.0.1:54525
+Read port: 54532
+1693987880641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54525/devtools/browser/76f140e4-c70c-4a7c-85af-297dc3dc4801
+1693987884726	Marionette	INFO	Stopped listening on port 54532
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1693988497803	geckodriver	INFO	Listening on 127.0.0.1:54608
+1693988498322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/px/3_w3gz4d1rl7kk50vzr035sh0000gn/T/rust_mozprofileFtoEJE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693988498583	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693988498685	Marionette	INFO	Listening on port 54616
+Read port: 54616
+WebDriver BiDi listening on ws://127.0.0.1:54609
+1693988498781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54609/devtools/browser/fe29d4a4-d8ec-4409-9a53-6548b2572863
+1693988510183	Marionette	INFO	Stopped listening on port 54616
+JavaScript warning: https://obj.ac.bcon.ecdns.net/ec_tpm_bcon.js, line 1: Script terminated by timeout at:
+httpGet@https://obj.ac.bcon.ecdns.net/ec_tpm_bcon.js:1:159
+
